@@ -1,4 +1,3 @@
-This project entails the design of a data mart solution for the European Centre for Disease Prevention and Control (ECDC) to monitor the daily number of new reported COVID-19 cases and deaths, Intensive Care Unit (ICU) cases, and vaccination progress across the EU/EEA area.
 Solution Highlights:
 Data Sources: Integration of various data sources providing COVID-19 statistics and vaccination data across EU/EEA.
 Data Modeling: Designing a robust data model to represent COVID-19 cases, deaths, ICU admissions, and vaccination progress.
